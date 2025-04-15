@@ -9,7 +9,7 @@ Neste projeto, trabalhei com um conjunto de dados relacionados à avaliação de
 O dataset original foi retirada do [GitHub](https://github.com/azminewasi/Lionel-Messi-Club-Goals/blob/main/data.csv) e adaptada para a atividade pelo docente Antonino Feitosa.
 
 ## 🧪 Executar com Binder
-Você pode testar este notebook de forma interativa com o [Binder](https://mybinder.org/v2/gh/im-fernanda/messi-career-analysis/main?urlpath=%2Fdoc%2Ftree%2FProjeto.ipynb).
+Você pode testar este notebook de forma interativa com o [Binder](https://mybinder.org/v2/gh/im-fernanda/Analise-Carreira-Lionel-Messi/main?urlpath=%2Fdoc%2Ftree%2FProjeto.ipynb).
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem**: Python 3
