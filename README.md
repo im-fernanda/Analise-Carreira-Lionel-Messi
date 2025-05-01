@@ -8,8 +8,22 @@ Neste projeto, trabalhei com um conjunto de dados relacionados à avaliação de
 
 O dataset original foi retirada do [GitHub](https://github.com/azminewasi/Lionel-Messi-Club-Goals/blob/main/data.csv) e adaptada para a atividade pelo docente Antonino Feitosa.
 
-## 🧪 Executar com Binder
-Você pode testar este notebook de forma interativa com o [Binder](https://mybinder.org/v2/gh/im-fernanda/Analise-Carreira-Lionel-Messi/main?urlpath=%2Fdoc%2Ftree%2FProjeto.ipynb).
+## 🧪 Executar o projeto
+
+Você pode testar este notebook de forma interativa com o [Binder](https://mybinder.org/v2/gh/im-fernanda/Analise-Carreira-Lionel-Messi/main?urlpath=%2Fdoc%2Ftree%2FProjeto.ipynb). Caso queira visualizar na sua própria máquina, siga os passos abaixo após clonar o repositório e estar na raiz do projeto:
+1. Crie um ambiente virtual (utilize o CMD se o seu SO for Windows):
+  ```
+  python -m venv .
+  ```
+2. Ative o ambiente:
+  ```
+  Scripts\activate.bat
+  ```
+3. Entre no jupyter lab:
+```
+jupyter lab
+```
+Após isso, rode o arquivo Projeto.ipynb como preferir.
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem**: Python 3
