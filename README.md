@@ -6,7 +6,7 @@ Este repositório apresenta um projeto prático de análise de dados, desenvolvi
 
 Neste projeto, trabalhei com um conjunto de dados relacionados à avaliação de uma unidade curricular de ciência de dados. A análise teve como foco avaliar estatisticamente e preditivamente os dados com diferentes etapas: desde análise exploratória e limpeza até clusterização e predição, com o objetivo de extrair padrões e avaliar a qualidade das informações contidas no conjunto de dados.
 
-O dataset original foi retirada do [GitHub](https://github.com/azminewasi/Lionel-Messi-Club-Goals/blob/main/data.csv) e adaptada para a atividade pelo docente Antonino Feitosa.
+O dataset original foi retirado do [GitHub](https://github.com/azminewasi/Lionel-Messi-Club-Goals/blob/main/data.csv) e adaptada para a atividade pelo docente Antonino Feitosa.
 
 ## 🧪 Executar o projeto
 
